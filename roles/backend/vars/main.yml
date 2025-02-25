@@ -1,5 +1,5 @@
 mysql_user: root
 mysql_password: ExpenseApp1
-mysql_host: "mysql-{{ environment }}.kittudevops.shop"
+mysql_host: mysql-{{environment}}.kittudevops.shop
 app_loc: /app
 component: backend
